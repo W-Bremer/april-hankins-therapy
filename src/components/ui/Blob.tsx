@@ -1,6 +1,6 @@
 import { cn } from "@/lib/utils";
 
-// Decorative organic blob — purely visual, hidden from screen readers.
+// Decorative organic blob, purely visual, hidden from screen readers.
 export function Blob({
   className,
   color = "#EFB49A",

@@ -32,7 +32,7 @@ export const SERVICES: Service[] = [
       "April Hankins, EMDR therapist, taking notes during a session in her Canal Fulton, Ohio office",
     metaTitle: "EMDR Therapy in Canal Fulton, Ohio | April Hankins, LPCC",
     metaDescription:
-      "EMDR therapy in Canal Fulton, OH with April Hankins, LPCC — an EMDRIA member helping moms process trauma so it no longer runs the show. In-person & virtual across Ohio.",
+      "EMDR therapy in Canal Fulton, OH with April Hankins, LPCC, an EMDRIA member helping moms process trauma so it no longer runs the show. In-person & virtual across Ohio.",
     keywords: [
       "EMDR therapy Canal Fulton Ohio",
       "EMDR therapist near me",
@@ -40,14 +40,14 @@ export const SERVICES: Service[] = [
       "trauma therapy Canal Fulton",
     ],
     eyebrow: "EMDR Therapy",
-    h1: "EMDR therapy that gets to the root — not just the surface",
+    h1: "EMDR therapy that gets to the root, not just the surface",
     intro:
-      "EMDR (Eye Movement Desensitization and Reprocessing) is an eight-phase model designed to help your brain store difficult memories the way it was always meant to — so the past stops hijacking your present.",
+      "EMDR (Eye Movement Desensitization and Reprocessing) is an eight-phase model designed to help your brain store difficult memories the way it was always meant to, so the past stops hijacking your present.",
     lede: "You don't have to relive every hard thing out loud to heal from it. EMDR works with your body's own intuition and natural processing, blending somatic work, attachment focus, and parts work (IFS) to release what's been stuck.",
     signs: [
       {
         title: "The past keeps showing up",
-        body: "Old memories, triggers, or reactions surface in daily life — especially in motherhood — even when you 'know better.'",
+        body: "Old memories, triggers, or reactions surface in daily life, especially in motherhood, even when you 'know better.'",
       },
       {
         title: "Talk therapy hit a ceiling",
@@ -59,10 +59,10 @@ export const SERVICES: Service[] = [
       },
     ],
     approach: [
-      "History & goals — we get clear on what you want to shift and map the memories connected to your current triggers.",
-      "Safety & resourcing — the early phases build coping skills, grounding, and a real sense of connection before we go anywhere hard.",
-      "Reprocessing — using bilateral stimulation (eye movements, tones, or tapping), we help your brain integrate the memory adaptively.",
-      "Body & future — we reconnect you to your body and rehearse moving through life with the charge turned down.",
+      "History & goals, we get clear on what you want to shift and map the memories connected to your current triggers.",
+      "Safety & resourcing, the early phases build coping skills, grounding, and a real sense of connection before we go anywhere hard.",
+      "Reprocessing, using bilateral stimulation (eye movements, tones, or tapping), we help your brain integrate the memory adaptively.",
+      "Body & future, we reconnect you to your body and rehearse moving through life with the charge turned down.",
     ],
     outcomes: [
       {
@@ -71,7 +71,7 @@ export const SERVICES: Service[] = [
       },
       {
         title: "You respond, not react",
-        body: "More space between what happens and how you answer it — with your kids, your partner, yourself.",
+        body: "More space between what happens and how you answer it, with your kids, your partner, yourself.",
       },
       {
         title: "Relief at the source",
@@ -83,11 +83,11 @@ export const SERVICES: Service[] = [
     faqs: [
       {
         q: "Can EMDR be done virtually?",
-        a: "Yes — and research has found it to be just as effective online as in person. Virtual EMDR is available throughout Ohio and Pennsylvania.",
+        a: "Yes, and research has found it to be just as effective online as in person. Virtual EMDR is available throughout Ohio and Pennsylvania.",
       },
       {
         q: "Do we have to work on every memory?",
-        a: "No. We focus on the memories that feel most connected to your current triggers — not a forced march through your whole history.",
+        a: "No. We focus on the memories that feel most connected to your current triggers, not a forced march through your whole history.",
       },
       {
         q: "When would we actually start EMDR?",
@@ -100,11 +100,12 @@ export const SERVICES: Service[] = [
     navTitle: "EMDR Intensives",
     color: "berry",
     icon: "Zap",
-    image: "/images/emdr-detail.png",
-    imageAlt: "Calming EMDR intensive therapy space in Canal Fulton, Ohio",
+    image: "/images/intensive-calm.jpg",
+    imageAlt:
+      "A softly glowing candle in a calm, cozy setting, evoking focused EMDR intensive work",
     metaTitle: "EMDR Intensives in Ohio | Heal Faster with April Hankins, LPCC",
     metaDescription:
-      "EMDR intensives with April Hankins, LPCC — focused 1, 2, or 3-day trauma work for busy moms in Canal Fulton, OH. Change and healing in days, not months. Book a free consult.",
+      "EMDR intensives with April Hankins, LPCC, focused 1, 2, or 3-day trauma work for busy moms in Canal Fulton, OH. Change and healing in days, not months. Book a free consult.",
     keywords: [
       "EMDR intensive Ohio",
       "EMDR intensive Canal Fulton",
@@ -112,14 +113,14 @@ export const SERVICES: Service[] = [
       "EMDR intensive for moms",
     ],
     eyebrow: "EMDR Intensives",
-    h1: "Deep trauma work in days — not months of weekly sessions",
+    h1: "Deep trauma work in days, not months of weekly sessions",
     intro:
-      "An EMDR intensive is concentrated, focused reprocessing over one, two, or three days — built for the mom whose calendar doesn't have a standing weekly slot, or who's ready to go deep and not drag it out.",
-    lede: "Instead of stopping just as things get going each week, we give your work room to breathe. Many people experience faster symptom reduction with results as good as — or better than — traditional weekly therapy.",
+      "An EMDR intensive is concentrated, focused reprocessing over one, two, or three days, built for the mom whose calendar doesn't have a standing weekly slot, or who's ready to go deep and not drag it out.",
+    lede: "Instead of stopping just as things get going each week, we give your work room to breathe. Many people experience faster symptom reduction with results as good as, or better than, traditional weekly therapy.",
     signs: [
       {
         title: "You're ready to work deeply",
-        body: "You want momentum, not a slow trickle — and you're prepared to focus.",
+        body: "You want momentum, not a slow trickle, and you're prepared to focus.",
       },
       {
         title: "Weekly doesn't fit your life",
@@ -131,10 +132,10 @@ export const SERVICES: Service[] = [
       },
     ],
     approach: [
-      "Consult call (15 min) — we confirm an intensive is the right fit for you.",
-      "Preparation session (1 hour) — we set goals, practice coping skills, and I build you a customized workbook.",
-      "The intensive (1–3 days) — we process your target memories with breaks as needed, using the bilateral stimulation that feels best to you.",
-      "Follow-up session — we integrate the work and plan what's next.",
+      "Consult call (15 min), we confirm an intensive is the right fit for you.",
+      "Preparation session (1 hour), we set goals, practice coping skills, and I build you a customized workbook.",
+      "The intensive (1–3 days), we process your target memories with breaks as needed, using the bilateral stimulation that feels best to you.",
+      "Follow-up session, we integrate the work and plan what's next.",
     ],
     outcomes: [
       {
@@ -143,7 +144,7 @@ export const SERVICES: Service[] = [
       },
       {
         title: "Built around your life",
-        body: "Schedule a single day, back-to-back days, or spread them out — whatever your season allows.",
+        body: "Schedule a single day, back-to-back days, or spread them out, whatever your season allows.",
       },
       {
         title: "Often more cost-effective",
@@ -155,7 +156,7 @@ export const SERVICES: Service[] = [
     faqs: [
       {
         q: "How much does an intensive cost?",
-        a: "One day is $1,855, two days $2,915, and three days $3,975 — each includes your preparation session, custom workbook, intensive hours, and a follow-up session. Insurance does not cover intensive sessions.",
+        a: "One day is $1,855, two days $2,915, and three days $3,975, each includes your preparation session, custom workbook, intensive hours, and a follow-up session. Insurance does not cover intensive sessions.",
       },
       {
         q: "Who are intensives best for?",
@@ -163,7 +164,7 @@ export const SERVICES: Service[] = [
       },
       {
         q: "What kind of bilateral stimulation is used?",
-        a: "You choose what feels best — eye movements, audio tones, or tapping. It's your nervous system; you're in the driver's seat.",
+        a: "You choose what feels best, eye movements, audio tones, or tapping. It's your nervous system; you're in the driver's seat.",
       },
     ],
   },
@@ -174,11 +175,11 @@ export const SERVICES: Service[] = [
     icon: "Baby",
     image: "/images/therapy-for-moms.png",
     imageAlt:
-      "A mother sharing breakfast with her two young children — perinatal and maternal mental health support",
+      "A mother sharing breakfast with her two young children, perinatal and maternal mental health support",
     metaTitle:
       "Perinatal & Postpartum Therapy in Canal Fulton, OH | April Hankins, LPCC",
     metaDescription:
-      "Perinatal & maternal mental health therapy in Canal Fulton, Ohio. April Hankins, LPCC has specialized training in perinatal mental health — support for pregnancy, postpartum, matrescence & mom overwhelm.",
+      "Perinatal & maternal mental health therapy in Canal Fulton, Ohio. April Hankins, LPCC has specialized training in perinatal mental health, support for pregnancy, postpartum, matrescence & mom overwhelm.",
     keywords: [
       "perinatal therapist Canal Fulton",
       "postpartum therapy Ohio",
@@ -188,8 +189,8 @@ export const SERVICES: Service[] = [
     eyebrow: "Perinatal & Maternal Mental Health",
     h1: "Becoming a mom cracked you open. Let's tend to what's underneath.",
     intro:
-      "Matrescence — the transition into motherhood — can be beautiful and disorienting, empowering and exhausting, clarifying and deeply triggering. With specialized training in perinatal mental health, I help moms through pregnancy, postpartum, and every messy, tender season after.",
-    lede: "The overwhelm you're feeling isn't a character flaw. Motherhood has a way of surfacing everything we never got to heal — and that's exactly the work we can do together.",
+      "Matrescence, the transition into motherhood, can be beautiful and disorienting, empowering and exhausting, clarifying and deeply triggering. With specialized training in perinatal mental health, I help moms through pregnancy, postpartum, and every messy, tender season after.",
+    lede: "The overwhelm you're feeling isn't a character flaw. Motherhood has a way of surfacing everything we never got to heal, and that's exactly the work we can do together.",
     signs: [
       {
         title: "The overwhelm won't quit",
@@ -201,19 +202,19 @@ export const SERVICES: Service[] = [
       },
       {
         title: "Your triggers surprise you",
-        body: "Your kids press buttons you didn't know you had — and you want to understand why.",
+        body: "Your kids press buttons you didn't know you had, and you want to understand why.",
       },
     ],
     approach: [
-      "We make room for the full truth of motherhood — the love and the hard, without shame.",
+      "We make room for the full truth of motherhood, the love and the hard, without shame.",
       "We gently explore how your own childhood and nervous system shape the way you parent now.",
       "Using EMDR and parts work, we soften the triggers so you're not white-knuckling every hard moment.",
-      "We rebuild trust in your own intuition as a mother — so you can parent from steadiness, not fear.",
+      "We rebuild trust in your own intuition as a mother, so you can parent from steadiness, not fear.",
     ],
     outcomes: [
       {
         title: "You find yourself again",
-        body: "Reconnect with the person underneath the role — the one who matters too.",
+        body: "Reconnect with the person underneath the role, the one who matters too.",
       },
       {
         title: "Steadier in the hard moments",
@@ -225,7 +226,7 @@ export const SERVICES: Service[] = [
       },
     ],
     pullQuote:
-      "This feels hard because it is hard. You're not doing it wrong — you're doing it without enough support.",
+      "This feels hard because it is hard. You're not doing it wrong. You're just doing it without enough support.",
     faqs: [
       {
         q: "Do I need a diagnosis to come in?",
@@ -237,7 +238,7 @@ export const SERVICES: Service[] = [
       },
       {
         q: "Is it too late if my kids are older?",
-        a: "Never. The transition into motherhood keeps echoing for years — this work helps whether your baby is six weeks or sixteen.",
+        a: "Never. The transition into motherhood keeps echoing for years, this work helps whether your baby is six weeks or sixteen.",
       },
     ],
   },
@@ -246,13 +247,13 @@ export const SERVICES: Service[] = [
     navTitle: "Childhood Trauma Therapy",
     color: "sage",
     icon: "Sprout",
-    image: "/images/childhood-trauma.jpeg",
+    image: "/images/childhood-healing.jpg",
     imageAlt:
-      "April Hankins in her therapy office with an 'I can control' grounding poster, Canal Fulton Ohio",
+      "A woman pausing in warm golden light, a tender moment of reflection and healing from childhood trauma",
     metaTitle:
       "Childhood Trauma Therapy in Canal Fulton, OH | April Hankins, LPCC",
     metaDescription:
-      "Childhood trauma therapy in Canal Fulton, Ohio. April Hankins, LPCC uses EMDR to help moms heal past abuse, neglect, and hard childhoods — so old wounds stop driving today. Free consult.",
+      "Childhood trauma therapy in Canal Fulton, Ohio. April Hankins, LPCC uses EMDR to help moms heal past abuse, neglect, and hard childhoods, so old wounds stop driving today. Free consult.",
     keywords: [
       "childhood trauma therapy Canal Fulton",
       "EMDR childhood trauma Ohio",
@@ -262,8 +263,8 @@ export const SERVICES: Service[] = [
     eyebrow: "Childhood Trauma Therapy",
     h1: "Heal the childhood you had, so it stops parenting your kids",
     intro:
-      "Unresolved childhood trauma has a way of popping up right in the middle of daily life as a mom — in the yelling you swore you'd never do, the anxiety, the 'I'm not good enough' loop. Past abuse, neglect, or simply hard early experiences don't just stay in the past.",
-    lede: "Through structured, targeted EMDR sessions built for busy moms, we work with the cause of your triggers — not just the symptoms — for relief that actually lasts.",
+      "Unresolved childhood trauma has a way of popping up right in the middle of daily life as a mom, in the yelling you swore you'd never do, the anxiety, the 'I'm not good enough' loop. Past abuse, neglect, or simply hard early experiences don't just stay in the past.",
+    lede: "Through structured, targeted EMDR sessions built for busy moms, we work with the cause of your triggers, not just the symptoms, for relief that actually lasts.",
     signs: [
       {
         title: "You parent from a reaction",
@@ -275,7 +276,7 @@ export const SERVICES: Service[] = [
       },
       {
         title: "You want to break the cycle",
-        body: "You're determined to give your kids something different than what you got — and you need help doing it.",
+        body: "You're determined to give your kids something different than what you got, and you need help doing it.",
       },
     ],
     approach: [
@@ -299,15 +300,15 @@ export const SERVICES: Service[] = [
       },
     ],
     pullQuote:
-      "You can be the cycle-breaker — the one who felt the pain and chose to do the healing so your kids don't have to.",
+      "You can be the cycle-breaker, the one who felt the pain and chose to do the healing so your kids don't have to.",
     faqs: [
       {
         q: "What if I don't remember much of my childhood?",
-        a: "That's common and okay. EMDR works with the memories and body sensations that are present — we don't need a perfect timeline to make progress.",
+        a: "That's common and okay. EMDR works with the memories and body sensations that are present, we don't need a perfect timeline to make progress.",
       },
       {
         q: "Will this make me blame my parents?",
-        a: "The goal isn't blame — it's freedom. We honor what was hard so it stops controlling your present, whatever you choose to do with those relationships.",
+        a: "The goal isn't blame, it's freedom. We honor what was hard so it stops controlling your present, whatever you choose to do with those relationships.",
       },
       {
         q: "I function fine. Is my childhood 'bad enough' for therapy?",
@@ -320,9 +321,9 @@ export const SERVICES: Service[] = [
     navTitle: "Spiritual Trauma & Deconstruction",
     color: "berry",
     icon: "Feather",
-    image: "/images/spiritual-trauma.jpeg",
+    image: "/images/spiritual-freedom.jpg",
     imageAlt:
-      "April Hankins in front of a mandala mural — spiritual trauma and faith deconstruction therapy",
+      "A woman standing in a sunlit field with her arms raised, a sense of freedom after spiritual trauma and deconstruction",
     metaTitle:
       "Spiritual Trauma & Faith Deconstruction Therapy in Ohio | April Hankins, LPCC",
     metaDescription:
@@ -334,18 +335,18 @@ export const SERVICES: Service[] = [
       "purity culture recovery therapist",
     ],
     eyebrow: "Spiritual Trauma & Deconstruction",
-    h1: "Reclaim your spirituality — on your terms",
+    h1: "Reclaim your spirituality, on your terms",
     intro:
-      "Transitioning into motherhood can be rocky for many moms, and even more so when there's a history of spiritual trauma. Anxiety, depression, and overwhelm often ride alongside deconstruction — the guilt, shame, and fear that a rigid, faith-based upbringing left behind.",
-    lede: "As a former evangelical pastor who walked my own deconstruction, I get it from the inside. I don't have an agenda for your beliefs — this is about reclaiming your own voice and values, whatever that ends up looking like for you.",
+      "Transitioning into motherhood can be rocky for many moms, and even more so when there's a history of spiritual trauma. Anxiety, depression, and overwhelm often ride alongside deconstruction, the guilt, shame, and fear that a rigid, faith-based upbringing left behind.",
+    lede: "As a former evangelical pastor who walked my own deconstruction, I get it from the inside. I don't have an agenda for your beliefs. This is about reclaiming your own voice and values, whatever that ends up looking like for you.",
     signs: [
       {
         title: "Guilt and shame run deep",
-        body: "Old teachings still whisper that you're bad, wrong, or not enough — especially as a parent.",
+        body: "Old teachings still whisper that you're bad, wrong, or not enough, especially as a parent.",
       },
       {
         title: "You're questioning everything",
-        body: "Faith, authority, sexuality, belonging — and it feels lonely, disorienting, and sometimes terrifying.",
+        body: "Faith, authority, sexuality, belonging, and it feels lonely, disorienting, and sometimes terrifying.",
       },
       {
         title: "You want to parent differently",
@@ -354,14 +355,14 @@ export const SERVICES: Service[] = [
     ],
     approach: [
       "We process the pain and confusion so it stops living in your body.",
-      "We work to change the blame and shame — and reconnect you to your own goodness.",
+      "We work to change the blame and shame, and reconnect you to your own goodness.",
       "We release the pressure and perfectionism around 'getting it right' as a parent.",
       "We do it without requiring endless talk therapy, using your body's own intuition through EMDR.",
     ],
     outcomes: [
       {
         title: "Spirituality on your terms",
-        body: "Whether you keep faith, leave it, or rebuild something new — it becomes yours.",
+        body: "Whether you keep faith, leave it, or rebuild something new, it becomes yours.",
       },
       {
         title: "Freedom from shame",
@@ -373,11 +374,11 @@ export const SERVICES: Service[] = [
       },
     ],
     pullQuote:
-      "My own deconstruction wasn't a loss of faith so much as a reclaiming of my voice and values. Your path doesn't have to look like mine — and that difference is celebrated here.",
+      "My own deconstruction wasn't a loss of faith so much as a reclaiming of my voice and values. Your path doesn't have to look like mine, and that difference is celebrated here.",
     faqs: [
       {
         q: "Do you have an agenda about what I should believe?",
-        a: "No. I'm not here to talk you into or out of anything. This work is about freeing you from what harmed you so you can choose your own path — your beliefs are yours.",
+        a: "No. I'm not here to talk you into or out of anything. This work is about freeing you from what harmed you so you can choose your own path, your beliefs are yours.",
       },
       {
         q: "Do you only work with people leaving religion?",
@@ -394,13 +395,13 @@ export const SERVICES: Service[] = [
     navTitle: "Sexual Desire & Intimacy",
     color: "clay",
     icon: "Flame",
-    image: "/images/sexual-desire.jpeg",
+    image: "/images/intimacy-peonies.jpg",
     imageAlt:
-      "April Hankins beside a 'we can do hard things' sign — therapy for sexual desire and intimacy",
+      "Soft blush peonies in warm, gentle light, evoking reconnecting with desire and intimacy",
     metaTitle:
       "Sexual Desire & Intimacy Therapy in Ohio | Purity Culture Recovery | April Hankins",
     metaDescription:
-      "Reconnect with desire, pleasure & intimacy after kids, trauma, or purity culture. April Hankins, LPCC offers EMDR-informed intimacy therapy in Canal Fulton, OH — virtual across Ohio & PA.",
+      "Reconnect with desire, pleasure & intimacy after kids, trauma, or purity culture. April Hankins, LPCC offers EMDR-informed intimacy therapy in Canal Fulton, OH, virtual across Ohio & PA.",
     keywords: [
       "purity culture recovery therapist",
       "sex therapy after kids Ohio",
@@ -408,10 +409,10 @@ export const SERVICES: Service[] = [
       "low desire therapy for moms",
     ],
     eyebrow: "Sexual Desire & Intimacy",
-    h1: "Find your spark again — on your own terms",
+    h1: "Find your spark again, on your own terms",
     intro:
-      "So many of the moms I work with grew up in rigid, religious environments and are healing from purity culture. That can leave a complicated relationship with your body and your sexuality — and a real longing to feel alive in your own skin again.",
-    lede: "We work to recover from shame-based teachings, reconnect you to desire and pleasure after kids and trauma, and help you decide how you want to talk to your own children about sexuality — differently than you were raised.",
+      "So many of the moms I work with grew up in rigid, religious environments and are healing from purity culture. That can leave a complicated relationship with your body and your sexuality, and a real longing to feel alive in your own skin again.",
+    lede: "We work to recover from shame-based teachings, reconnect you to desire and pleasure after kids and trauma, and help you decide how you want to talk to your own children about sexuality, differently than you were raised.",
     signs: [
       {
         title: "Purity culture left its mark",
@@ -427,10 +428,10 @@ export const SERVICES: Service[] = [
       },
     ],
     approach: [
-      "Feel sexually alive — reconnect with your sexuality on your own terms.",
-      "Body image & sensuality — prioritize your desire and your pleasure.",
-      "Intimacy after kids — reclaim consent, voice, and agency in your relationships.",
-      "Structured, targeted sessions that get to the root — without requiring endless talk therapy.",
+      "Feel sexually alive, reconnect with your sexuality on your own terms.",
+      "Body image & sensuality, prioritize your desire and your pleasure.",
+      "Intimacy after kids, reclaim consent, voice, and agency in your relationships.",
+      "Structured, targeted sessions that get to the root, without requiring endless talk therapy.",
     ],
     outcomes: [
       {
@@ -447,11 +448,11 @@ export const SERVICES: Service[] = [
       },
     ],
     pullQuote:
-      "Your desire, your voice, your agency — reclaiming them isn't shameful. It's part of coming home to yourself.",
+      "Your desire, your voice, your agency, reclaiming them isn't shameful. It's part of coming home to yourself.",
     faqs: [
       {
         q: "Is this the same as sex therapy?",
-        a: "It overlaps but centers on the trauma and shame — especially from purity culture — that get in the way of desire and intimacy. We use EMDR-informed work to heal at the root.",
+        a: "It overlaps but centers on the trauma and shame, especially from purity culture, that get in the way of desire and intimacy. We use EMDR-informed work to heal at the root.",
       },
       {
         q: "Do you work with couples?",
@@ -459,7 +460,7 @@ export const SERVICES: Service[] = [
       },
       {
         q: "I feel embarrassed even reaching out.",
-        a: "That's exactly the shame we work to unwind — and you won't be judged here. Warm, honest, and collaborative is the whole vibe.",
+        a: "That's exactly the shame we work to unwind, and you won't be judged here. Warm, honest, and collaborative is the whole vibe.",
       },
     ],
   },

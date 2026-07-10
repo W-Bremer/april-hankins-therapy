@@ -13,8 +13,7 @@ export function Footer() {
             April Hankins Therapy
           </p>
           <p className="mt-3 text-sm leading-relaxed text-cream-100/80">
-            {SITE.role} helping moms and cycle-breakers heal trauma with EMDR —
-            in Canal Fulton, Ohio and virtually across Ohio &amp; Pennsylvania.
+            {SITE.role} helping moms and cycle-breakers heal trauma with EMDR,             in Canal Fulton, Ohio and virtually across Ohio &amp; Pennsylvania.
           </p>
           <p className="mt-5 inline-flex items-center gap-2 rounded-full bg-cream-50/10 px-4 py-2 text-xs font-semibold tracking-wide">
             <span className="h-2 w-2 animate-pulse rounded-full bg-marigold-200" />

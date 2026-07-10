@@ -34,7 +34,7 @@ const details = [
   {
     icon: Clock,
     label: "Hours",
-    value: "Weekdays, daytime — by appointment",
+    value: "Weekdays, daytime, by appointment",
   },
 ];
 

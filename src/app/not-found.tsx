@@ -8,7 +8,7 @@ export default function NotFound() {
         This page wandered off
       </h1>
       <p className="mt-3 max-w-md text-lg text-ink-soft">
-        The page you&apos;re looking for isn&apos;t here — but healing is still
+        The page you&apos;re looking for isn&apos;t here, but healing is still
         just a click away.
       </p>
       <div className="mt-8 flex flex-col gap-3 sm:flex-row">

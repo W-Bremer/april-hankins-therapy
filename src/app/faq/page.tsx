@@ -9,7 +9,7 @@ import { JsonLd, faqSchema, breadcrumbSchema } from "@/lib/schema";
 export const metadata: Metadata = {
   title: "FAQ | April Hankins Therapy, LPCC | Canal Fulton, OH",
   description:
-    "Answers to common questions about EMDR therapy with April Hankins, LPCC — fees, insurance, virtual sessions, what to expect, and how to get started in Canal Fulton, Ohio.",
+    "Answers to common questions about EMDR therapy with April Hankins, LPCC, fees, insurance, virtual sessions, what to expect, and how to get started in Canal Fulton, Ohio.",
   alternates: { canonical: "/faq" },
 };
 
@@ -38,7 +38,7 @@ export default function FaqPage() {
             </h1>
             <p className="mx-auto mt-5 max-w-xl text-lg text-ink-soft">
               Everything you might want to know before reaching out. Still
-              wondering something? Just ask — no question is too small.
+              wondering something? Just ask, no question is too small.
             </p>
           </Reveal>
         </div>

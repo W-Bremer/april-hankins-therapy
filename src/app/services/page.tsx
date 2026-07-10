@@ -12,7 +12,7 @@ import { JsonLd, breadcrumbSchema } from "@/lib/schema";
 export const metadata: Metadata = {
   title: "Therapy Services in Canal Fulton, OH | EMDR for Moms | April Hankins",
   description:
-    "Explore April Hankins' therapy services in Canal Fulton, Ohio — EMDR therapy, EMDR intensives, perinatal mental health, childhood & spiritual trauma, and intimacy after purity culture.",
+    "Explore April Hankins' therapy services in Canal Fulton, Ohio, EMDR therapy, EMDR intensives, perinatal mental health, childhood & spiritual trauma, and intimacy after purity culture.",
   alternates: { canonical: "/services" },
 };
 
@@ -45,7 +45,7 @@ export default function ServicesIndex() {
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-lg text-ink-soft">
               Every path here is rooted in EMDR and woven with somatic,
-              attachment, and parts work — in person in Canal Fulton or virtually
+              attachment, and parts work, in person in Canal Fulton or virtually
               across {SITE.virtualStates.join(" & ")}.
             </p>
           </Reveal>
@@ -103,7 +103,7 @@ export default function ServicesIndex() {
                 Investment
               </h2>
               <p className="mt-4 text-cream-50/85">
-                A free 15-minute consult comes first — always. Insurance is
+                A free 15-minute consult comes first, always. Insurance is
                 accepted through September 2026 for weekly sessions
                 (intensives are private pay).
               </p>

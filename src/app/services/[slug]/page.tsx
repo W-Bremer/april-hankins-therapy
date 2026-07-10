@@ -209,7 +209,7 @@ export default function ServicePage({
               How we&apos;ll work together
             </h2>
             <p className="mt-5 text-lg text-ink-soft">
-              Warm, honest, and collaborative — grounded in EMDR and paced to
+              Warm, honest, and collaborative, grounded in EMDR and paced to
               your nervous system, never rushed.
             </p>
             <div className="mt-8">
@@ -242,7 +242,7 @@ export default function ServicePage({
               “{s.pullQuote}”
             </blockquote>
             <figcaption className="mt-5 text-sm font-bold uppercase tracking-wider text-ink-muted">
-              — April Hankins, {SITE.credentials}
+, April Hankins, {SITE.credentials}
             </figcaption>
           </figure>
         </Reveal>

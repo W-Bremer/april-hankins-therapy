@@ -118,7 +118,7 @@ export default function LocationPage({
             <div className="absolute -bottom-5 -left-5 h-40 w-40 rounded-blob bg-clay-100" />
             <Image
               src="/images/april-therapy-canal-fulton.jpeg"
-              alt={`April Hankins, LPCC — EMDR therapist serving ${l.city}, Ohio`}
+              alt={`April Hankins, LPCC, EMDR therapist serving ${l.city}, Ohio`}
               width={1500}
               height={1000}
               priority
@@ -140,12 +140,11 @@ export default function LocationPage({
                 If you&apos;re a mom in {l.city} carrying overwhelm, old trauma,
                 or the weight of breaking cycles you never chose, you don&apos;t
                 have to keep white-knuckling it. I help {l.city}-area moms heal
-                childhood, spiritual, and sexual trauma at the root using EMDR —
-                so the past stops running your present.
+                childhood, spiritual, and sexual trauma at the root using EMDR,                 so the past stops running your present.
               </p>
               <p>
                 Come to my Canal Fulton office in person, or meet virtually from
-                the comfort of home — same warm, honest, collaborative work
+                the comfort of home, same warm, honest, collaborative work
                 either way.
               </p>
             </div>

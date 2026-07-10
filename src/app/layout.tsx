@@ -49,7 +49,7 @@ export const metadata: Metadata = {
         url: "/images/headshot.jpeg",
         width: 1500,
         height: 1000,
-        alt: "April Hankins, LPCC — EMDR therapist in Canal Fulton, Ohio",
+        alt: "April Hankins, LPCC, EMDR therapist in Canal Fulton, Ohio",
       },
     ],
   },

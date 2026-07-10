@@ -1,7 +1,7 @@
 export const GENERAL_FAQS = [
   {
     q: "Do you only work with moms?",
-    a: "No — I work with adults who want to heal trauma. I especially support those ready to reclaim their spirituality and/or sexuality after past experiences with rigid religious beliefs or purity culture. Moms are my heart, but you don't have to be one to work with me.",
+    a: "No, I work with adults who want to heal trauma. I especially support those ready to reclaim their spirituality and/or sexuality after past experiences with rigid religious beliefs or purity culture. Moms are my heart, but you don't have to be one to work with me.",
   },
   {
     q: "How much does therapy cost?",
@@ -21,7 +21,7 @@ export const GENERAL_FAQS = [
   },
   {
     q: "Can EMDR be done virtually?",
-    a: "Yes — and it has been found to be just as effective online as in person. Virtual EMDR is a great fit for busy moms and anyone who prefers to do the work from home.",
+    a: "Yes, and it has been found to be just as effective online as in person. Virtual EMDR is a great fit for busy moms and anyone who prefers to do the work from home.",
   },
   {
     q: "Do we have to work on every memory in EMDR?",
@@ -33,7 +33,7 @@ export const GENERAL_FAQS = [
   },
   {
     q: "What's the best way to get in touch?",
-    a: "Email me at april@aprilhankinstherapy.com and I'll respond within two business days — or book a free 15-minute consult online and we'll talk it through.",
+    a: "Email me at april@aprilhankinstherapy.com and I'll respond within two business days, or book a free 15-minute consult online and we'll talk it through.",
   },
   {
     q: "What are your credentials?",

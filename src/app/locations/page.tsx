@@ -10,7 +10,7 @@ import { JsonLd, breadcrumbSchema } from "@/lib/schema";
 export const metadata: Metadata = {
   title: "Areas Served | EMDR Therapy Across Stark County, OH | April Hankins",
   description:
-    "April Hankins, LPCC offers EMDR therapy for moms in Canal Fulton, Massillon, North Canton, Canton & Akron, Ohio — in person and virtually across Ohio & Pennsylvania.",
+    "April Hankins, LPCC offers EMDR therapy for moms in Canal Fulton, Massillon, North Canton, Canton & Akron, Ohio, in person and virtually across Ohio & Pennsylvania.",
   alternates: { canonical: "/locations" },
 };
 

@@ -4,7 +4,7 @@ import { Reveal } from "@/components/ui/Reveal";
 
 export function CtaBand({
   heading = "You matter too.",
-  sub = "Book a free 15-minute consult and see if we're a fit. No pressure, no script — just a real conversation about where you are and where you'd like to go.",
+  sub = "Book a free 15-minute consult and see if we're a fit. No pressure, no script, just a real conversation about where you are and where you'd like to go.",
 }: {
   heading?: string;
   sub?: string;

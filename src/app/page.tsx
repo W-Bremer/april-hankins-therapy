@@ -59,7 +59,7 @@ export default function HomePage() {
               <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink-soft sm:text-xl">
                 Warm, honest, collaborative therapy for moms and cycle-breakers.
                 Using EMDR, we heal childhood, spiritual, and sexual trauma at
-                the root — so the past stops running the show.
+                the root, so the past stops running the show.
               </p>
             </Reveal>
             <Reveal delay={0.15}>
@@ -146,7 +146,7 @@ export default function HomePage() {
               <Reveal>
                 <span className="eyebrow text-clay-500">Does this sound familiar?</span>
                 <h2 className="mt-3 font-display text-3xl font-semibold leading-tight text-ink sm:text-[2.6rem]">
-                  Motherhood cracked you open — and everything you never healed
+                  Motherhood cracked you open, and everything you never healed
                   came with it.
                 </h2>
               </Reveal>
@@ -154,7 +154,7 @@ export default function HomePage() {
                 <ul className="mt-7 space-y-4">
                   {[
                     "You love your kids and you're quietly drowning in overwhelm, guilt, or rage.",
-                    "You swore you'd parent differently — then heard your mother's words come out of your mouth.",
+                    "You swore you'd parent differently, then heard your mother's words come out of your mouth.",
                     "You've done the talk therapy. You get it intellectually. Your body didn't get the memo.",
                     "Old messages about faith, worth, or your body still run the show.",
                   ].map((line) => (
@@ -168,7 +168,7 @@ export default function HomePage() {
               <Reveal delay={0.15}>
                 <p className="mt-7 text-lg font-medium text-ink">
                   You're not too much, and you're not broken. You're a
-                  cycle-breaker — and this is exactly the work we can do
+                  cycle-breaker, and this is exactly the work we can do
                   together.
                 </p>
               </Reveal>
@@ -186,7 +186,7 @@ export default function HomePage() {
               Specialized therapy, built around your life
             </h2>
             <p className="mt-4 text-lg text-ink-soft">
-              Six focused paths — one warm, root-level approach. Every service
+              Six focused paths, one warm, root-level approach. Every service
               blends EMDR with somatic, attachment, and parts work.
             </p>
           </Reveal>
@@ -244,7 +244,7 @@ export default function HomePage() {
               </Reveal>
               <Reveal delay={0.1}>
                 <p className="mt-5 text-lg leading-relaxed text-ink-soft">
-                  I&apos;m April — a licensed counselor in Canal Fulton, mom of
+                  I&apos;m April, a licensed counselor in Canal Fulton, mom of
                   two toddlers (and two dogs), and a former evangelical pastor
                   who walked my own faith deconstruction. Motherhood and
                   deconstruction cracked me open too, and shaped everything about
@@ -255,7 +255,7 @@ export default function HomePage() {
                 <figure className="mt-7 rounded-[1.8rem] border-l-4 border-clay-400 bg-clay-50 p-6">
                   <Quote className="h-7 w-7 text-clay-400" />
                   <blockquote className="mt-2 font-display text-2xl font-medium leading-snug text-ink">
-                    I don&apos;t believe in fixing you — because you aren&apos;t
+                    I don&apos;t believe in fixing you, because you aren&apos;t
                     broken.
                   </blockquote>
                 </figure>
@@ -298,12 +298,12 @@ export default function HomePage() {
               {
                 n: "02",
                 t: "Safety & connection first",
-                d: "Early sessions build coping skills, grounding, and trust between us — before we go anywhere hard.",
+                d: "Early sessions build coping skills, grounding, and trust between us, before we go anywhere hard.",
               },
               {
                 n: "03",
                 t: "Heal at the root",
-                d: "Using EMDR, we process what's been stuck at the pace your nervous system needs — weekly or in an intensive.",
+                d: "Using EMDR, we process what's been stuck at the pace your nervous system needs, weekly or in an intensive.",
               },
             ].map((step, i) => (
               <Reveal key={step.n} delay={i * 0.1}>

@@ -10,7 +10,7 @@ import { JsonLd, breadcrumbSchema } from "@/lib/schema";
 export const metadata: Metadata = {
   title: "About April Hankins, LPCC | EMDR Therapist in Canal Fulton, OH",
   description:
-    "Meet April Hankins, LPCC — a Canal Fulton, Ohio counselor, mom, and former evangelical pastor using EMDR to help moms heal trauma. Warm, honest, collaborative therapy.",
+    "Meet April Hankins, LPCC, a Canal Fulton, Ohio counselor, mom, and former evangelical pastor using EMDR to help moms heal trauma. Warm, honest, collaborative therapy.",
   alternates: { canonical: "/about" },
 };
 
@@ -33,7 +33,7 @@ const credentials = [
   {
     icon: MapPin,
     title: "Rooted in Stark County",
-    body: "Canal Fulton office serving Massillon, North Canton, Canton & Akron — plus virtual across OH & PA",
+    body: "Canal Fulton office serving Massillon, North Canton, Canton & Akron, plus virtual across OH & PA",
   },
 ];
 
@@ -101,7 +101,7 @@ export default function AboutPage() {
           </Reveal>
           <Reveal delay={0.05}>
             <p>
-              My path into therapy started in an unexpected place — as a middle
+              My path into therapy started in an unexpected place, as a middle
               school pastor at a large evangelical megachurch. Sitting with
               people&apos;s real, complicated questions, I realized they deserved
               deeper care than I could offer from a pulpit. So I went back to
@@ -111,7 +111,7 @@ export default function AboutPage() {
           <Reveal delay={0.05}>
             <p>
               At the same time, I was quietly living my own faith
-              deconstruction — questioning what I&apos;d been taught about faith,
+              deconstruction, questioning what I&apos;d been taught about faith,
               authority, sexuality, and belonging. It wasn&apos;t a loss of
               myself. It was a reclaiming of my own voice and values.
             </p>
@@ -120,9 +120,9 @@ export default function AboutPage() {
             <p>
               Then came motherhood, which cracked me open all over again. I
               realized the childhood fears and triggers I&apos;d been carrying
-              needed tending — not just for me, but so I could break generational
-              cycles for my own kids. Those two transitions — deconstruction and
-              becoming a mom — shape everything about how I show up in the room
+              needed tending, not just for me, but so I could break generational
+              cycles for my own kids. Those two transitions, deconstruction and
+              becoming a mom, shape everything about how I show up in the room
               with you.
             </p>
           </Reveal>
@@ -174,7 +174,7 @@ export default function AboutPage() {
               <ul className="mt-6 space-y-3">
                 {[
                   "You don't have to be in crisis to deserve support.",
-                  "Your path doesn't need to look like mine — that difference is celebrated here.",
+                  "Your path doesn't need to look like mine, that difference is celebrated here.",
                   "LGBTQ+ individuals and families are genuinely welcomed and affirmed.",
                 ].map((item) => (
                   <li key={item} className="flex gap-3 text-ink-soft">

@@ -15,9 +15,9 @@ export function ContactForm() {
 
   const onSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // No backend in this preview — hand off to the user's email client.
+    // No backend in this preview, hand off to the user's email client.
     const subject = encodeURIComponent(
-      `New inquiry from ${form.name || "the website"} — ${form.topic}`
+      `New inquiry from ${form.name || "the website"}, ${form.topic}`
     );
     const body = encodeURIComponent(
       `Name: ${form.name}\nEmail: ${form.email}\nInterested in: ${form.topic}\n\n${form.message}`
@@ -34,7 +34,7 @@ export function ContactForm() {
           Your email is ready to send
         </h3>
         <p className="mt-2 max-w-sm text-ink-soft">
-          Your message opened in your email app — hit send and I&apos;ll get back
+          Your message opened in your email app, hit send and I&apos;ll get back
           to you within two business days. Prefer to book right now? Use the free
           consult button anytime.
         </p>
@@ -109,7 +109,7 @@ export function ContactForm() {
           value={form.message}
           onChange={(e) => setForm({ ...form, message: e.target.value })}
           className={field}
-          placeholder="A sentence or two is plenty — we'll go deeper on our consult."
+          placeholder="A sentence or two is plenty, we'll go deeper on our consult."
         />
       </div>
       <button

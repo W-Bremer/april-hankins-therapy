@@ -3,7 +3,7 @@ import { SITE } from "./site";
 const businessId = `${SITE.url}/#practice`;
 const personId = `${SITE.url}/#april`;
 
-// Core LocalBusiness / MedicalBusiness node — the anchor for local SEO.
+// Core LocalBusiness / MedicalBusiness node, the anchor for local SEO.
 export function practiceSchema() {
   return {
     "@context": "https://schema.org",

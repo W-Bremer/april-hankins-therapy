@@ -10,7 +10,7 @@ export const SITE = {
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://aprilhankinstherapy.com",
   tagline: "Reclaim your badass self.",
   shortPitch:
-    "EMDR therapy for moms and cycle-breakers in Canal Fulton, Ohio — healing childhood, spiritual, and sexual trauma so the past stops running the show.",
+    "EMDR therapy for moms and cycle-breakers in Canal Fulton, Ohio, healing childhood, spiritual, and sexual trauma so the past stops running the show.",
   email: "april@aprilhankinstherapy.com",
   phone: "(330) 476-7216",
   phoneHref: "tel:+13304767216",
